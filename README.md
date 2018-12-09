@@ -6,7 +6,7 @@ LIRI is a *Language* Interpretation and Recognition Interface. LIRI will be a co
 
 ### What it does
 
-##### Spotify
+#### Spotify
 `<node liri.js spotify-this-song '<song name here>'>`
 This will show the following information about the song in your terminal/bash window
 * Artist(s)
