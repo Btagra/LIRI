@@ -6,6 +6,15 @@ LIRI is a *Language* Interpretation and Recognition Interface. LIRI will be a co
 
 ### What it does
 
+#### Concert
+
+`<node liri.js concert-this <artist/band name here>>`
+
+This will show the following information about the each event in your terminal/bash window
+* Name of the venue
+* Venue location
+* Date of the Event
+
 #### Spotify
 `<node liri.js spotify-this-song '<song name here>'>`
 
@@ -14,6 +23,7 @@ This will show the following information about the song in your terminal/bash wi
 * The song's name
 * A preview link of the song from Spotify
 * The album that the song is from
+
 If no song is provided then your program will default to "The Sign" by Ace of Base.
 
 #### Movies
@@ -28,4 +38,5 @@ This will show the following information about the movie in your terminal/bash w
 * Language of the movie
 * Plot of the movie
 * Actors in the movie
+
 If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
