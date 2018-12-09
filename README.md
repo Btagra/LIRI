@@ -27,7 +27,11 @@ This will show the following information about the song in your terminal/bash wi
 * A preview link of the song from Spotify
 * The album that the song is from
 
+![Image of spotify-this-song](./images/spotify-this-song.png)
+
 If no song is provided then your program will default to "The Sign" by Ace of Base.
+
+![Image of spotify-this-song](./images/spotify-this-song1.png)
 
 #### Movies
 
