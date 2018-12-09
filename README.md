@@ -47,12 +47,18 @@ This will show the following information about the movie in your terminal/bash w
 * Plot of the movie
 * Actors in the movie
 
+![Image of movie-this](./images/movie-this.png)
+
 If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
+
+![Image of movie-this](./images/movie-this1.png)
 
 #### Do What It Says
 
 `node liri.js do-what-it-says`
 
 Right now it will run `spotify-this-song` for "I Want it That Way,".
+
+![Image of do-what-it-says](./images/do-what-it-says.png)
 
 Feel free to change the text in random.txt to test out the feature for other commands.
