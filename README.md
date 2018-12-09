@@ -15,6 +15,8 @@ This will show the following information about the each event in your terminal/b
 * Venue location
 * Date of the Event
 
+![Image of concert](./images/concert.png)
+
 #### Spotify
 
 `node liri.js spotify-this-song '<song name here>'`
