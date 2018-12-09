@@ -13,7 +13,7 @@ LIRI is a *Language* Interpretation and Recognition Interface. LIRI will be a co
 This will show the following information about the each event in your terminal/bash window
 * Name of the venue
 * Venue location
-* Date of the Event
+* Date and Time of the Event
 
 ![Image of concert](./images/concert.png)
 
